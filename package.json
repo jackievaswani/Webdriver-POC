@@ -1,0 +1,23 @@
+{
+  "name": "webdriverio-v5-poc",
+  "version": "1.0.0",
+  "description": "integration-testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackievaswani/webdriverio-v5-poc.git"
+  },
+  "keywords": [
+    "E2E",
+    "Testing"
+  ],
+  "author": "Jackie Vaswani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackievaswani/webdriverio-v5-poc/issues"
+  },
+  "homepage": "https://github.com/jackievaswani/webdriverio-v5-poc#readme"
+}
